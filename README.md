@@ -1,7 +1,7 @@
 <div align="center"> <img src="deepseek-color.png" alt="DeepSeek Logo" width="80" height="80"> <h1>DeepSeek AI File Assistant</h1> </div>
 
 
-A smart document management tool that uses DeepSeek AI to analyze documents (PDF, DOCX, images) and generate meaningful filenames. Perfect for candidates applying for job as it name your resume/coverletter according to HR/Recruitment Standards & Practices, it automatically extracts key information like names, job titles, and companies to organize files intelligently.
+A smart document naming tool that uses DeepSeek AI to analyze documents (PDF, DOCX, images) and generate meaningful filenames. Perfect for candidates applying for job as it suggest filenames for your Resumes/Coverletters according to HR/Recruitment Standards & Practices.
 
 ## 🚀 Features
 
