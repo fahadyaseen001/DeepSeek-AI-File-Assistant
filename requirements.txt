@@ -1,0 +1,8 @@
+streamlit>=1.33.0
+together>=0.2.7
+pdfplumber>=0.10.0
+python-docx>=0.8.11
+pytesseract>=0.3.10
+pillow>=10.2.0
+pdf2image>=1.17.0
+python-magic>=0.4.27
