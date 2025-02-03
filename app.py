@@ -11,7 +11,7 @@ from pdf2image import convert_from_bytes
 import io
 import base64
 
-LOGO_PATH = "logo.png"
+LOGO_PATH = "deepseek-color.png"
 
 
 def get_base64_image(image_path):
@@ -136,7 +136,7 @@ def main():
         st.markdown(
             f"""
             <div style="display: flex; align-items: center;">
-            <img src="data:image/png;base64,{LOGO_BASE64}" style="width: auto; max-width: 50px; height: auto; margin-right: 10px;" />
+            <img src="data:image/png;base64,{LOGO_BASE64}" style="width: auto; max-width: 30px;  height: 30px; margin-right: 10px;" />
             <span>Powered by DeepSeek-R1</span>
             </div>
             """,
@@ -147,7 +147,7 @@ def main():
     st.markdown(
         f"""
         <div style="display: flex; align-items: center;">
-            <img src="data:image/png;base64,{LOGO_BASE64}" style="width: 40px; height: 40px; margin-right: 10px;"/>
+            <img src="data:image/png;base64,{LOGO_BASE64}" style="width: 50px; height: 50px; margin-right: 10px;"/>
             <h1 style="margin: 0; font-size: 2em;">DeepSeek AI File Assistant</h1>
         </div>
         """,
